@@ -1,0 +1,2 @@
+ 1424  qmk flash -kb hs60/v3/ansirgb -km cat_space_2
+ 1446  qmk flash -kb ok60 -km cat_space_1
